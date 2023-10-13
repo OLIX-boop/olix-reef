@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/olix-reef/static/css/main.81d9dfa5.css",
+    "main.js": "/olix-reef/static/js/main.02fecafa.js",
+    "static/js/787.8bc8d743.chunk.js": "/olix-reef/static/js/787.8bc8d743.chunk.js",
+    "static/media/blue_tip_acropora.jpg": "/olix-reef/static/media/blue_tip_acropora.e16d2cfdd4cd507a9308.jpg",
+    "static/media/acantastrea_rainbow.jpg": "/olix-reef/static/media/acantastrea_rainbow.2b6bacce0f038c4ef0d3.jpg",
+    "static/media/milka.jpg": "/olix-reef/static/media/milka.bf5c981b56557eeb5233.jpg",
+    "static/media/golden_torch.jpg": "/olix-reef/static/media/golden_torch.88279c388442ded8ee24.jpg",
+    "static/media/blastomussa.jpg": "/olix-reef/static/media/blastomussa.dddc42a0f4cd5695c611.jpg",
+    "static/media/acropora_hawkins.jpg": "/olix-reef/static/media/acropora_hawkins.9128038a821c79f85628.jpg",
+    "static/media/yuma.jpg": "/olix-reef/static/media/yuma.eeeeb7fe54fbefef53f8.jpg",
+    "static/media/caliendrum.jpg": "/olix-reef/static/media/caliendrum.128fbd558fa86411baaa.jpg",
+    "index.html": "/olix-reef/index.html",
+    "main.81d9dfa5.css.map": "/olix-reef/static/css/main.81d9dfa5.css.map",
+    "main.02fecafa.js.map": "/olix-reef/static/js/main.02fecafa.js.map",
+    "787.8bc8d743.chunk.js.map": "/olix-reef/static/js/787.8bc8d743.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81d9dfa5.css",
+    "static/js/main.02fecafa.js"
+  ]
+}
